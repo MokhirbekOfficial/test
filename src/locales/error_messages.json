@@ -1,0 +1,147 @@
+{
+    "error_messages": {
+        "admin_404": {
+            "en": "The company not found",
+            "ru": "The company not found",
+            "uz": "The company not found"
+        },
+        "admin_401": {
+            "en": "Authentication denied",
+            "ru": "Authentication denied",
+            "uz": "Authentication denied"
+        },
+        "admin_403": {
+            "en": "Authentication denied",
+            "ru": "Authentication denied",
+            "uz": "Authentication denied"
+        },
+        "auth_403": {
+            "en": "You are not allowed to this action",
+            "ru": "Вам не разрешено это действие",
+            "uz": "Sizga bu funksiyani bajarishga ruxsat yo'q"
+        },
+        "password_401": {
+            "en": "Current password error",
+            "ru": "Текущая ошибка пароля",
+            "uz": "Joriy parol xato"
+        },
+        "service_403": {
+            "en": "Other data is connected to this service",
+            "ru": "К этому сервису подключены другие данные",
+            "uz": "Bu servisga boshqa ma'lumotlar ulangan"
+        },
+        "company_403": {
+            "en": "You are not allowed to this action",
+            "ru": "You are not allowed to this action",
+            "uz": "You are not allowed to this action"
+        },
+        "company_404": {
+            "en": "The company not found",
+            "ru": "The company not found",
+            "uz": "The company not found"
+        },
+        "company_notCreated_400": {
+
+        },
+        "driver_notFound_404": {
+            "en": "The driver not found",
+            "ru": "The driver not found",
+            "uz": "The driver not found"
+        },
+        "vehicle_notFound_404": {
+            "en": "The vehicle not found",
+            "ru": "The vehicle not found",
+            "uz": "The vehicle not found"
+        },
+        "ifta_notFound_404": {
+            "en": "The ifta not found",
+            "ru": "The ifta not found",
+            "uz": "The ifta not found"
+        },
+        "driver_notUpdated_404": {
+            "en": "The driver have not been updated",
+            "ru": "The driver have not been updated",
+            "uz": "The driver have not been updated"
+        },
+        "vehicle_notUpdated_404": {
+            "en": "The vehicle have not been updated",
+            "ru": "The vehicle have not been updated",
+            "uz": "The vehicle have not been updated"
+        },
+        "ifta_notUpdated_404": {
+            "en": "The ifta have not been updated",
+            "ru": "The ifta have not been updated",
+            "uz": "The ifta have not been updated"
+        },
+        "driver_notDeleted_404": {
+            "en": "The driver have not been deleted",
+            "ru": "The driver have not been deleted",
+            "uz": "The driver have not been deleted"
+        },
+        "vehicle_notDeleted_404": {
+            "en": "The vehicle have not been deleted",
+            "ru": "The vehicle have not been deleted",
+            "uz": "The vehicle have not been deleted"
+        },
+        "ifta_notDeleted_404": {
+            "en": "The ifta have not been deleted",
+            "ru": "The ifta have not been deleted",
+            "uz": "The ifta have not been deleted"
+        },
+        "user_400": {
+            "en": "The vehicle have not been deleted",
+            "ru": "The vehicle have not been deleted",
+            "uz": "Ma'lumotlarda xatolik"
+        },
+        "service_login_400": {
+            "en": "No access to data",
+            "ru": "Нет доступа к данным",
+            "uz": "Ma'lumotlarga ruxsat yo'q"
+        },
+        "dvir_404": {
+            "en": "DVIR data not found",
+            "ru": "Данные DVIR не найдены",
+            "uz": "DVIR ma'lumotlari topilmadi"
+        },
+        "service_404":{
+            "en": "service data not found",
+            "ru": "служебная информация не найдена",
+            "uz": "xizmat ma'lumotlari topilmadi"
+        },
+        "user_404":{
+            "en": "user data not found",
+            "ru": "данные пользователя не найдены",
+            "uz": "foydalanuvchi ma'lumotlari topilmadi"
+        },
+        "dvir_400":{
+            "en": "error in data",
+            "ru": "ошибка в данных",
+            "uz": "ma'lumotlarda xatolik"
+        },
+        "dvir_signature_404":{
+            "en": "old signature not found",
+            "ru": "старая подпись не найдена",
+            "uz": "eski imzo topilmadi"
+        },
+        "dvir_403":{
+            "en": "no access to information",
+            "ru": "нет доступа к информации",
+            "uz": "ma'lumotga ruxsat yo'q"
+        },
+        "found_404": {
+            "en": "This email has already registered",
+            "ru": "This email has already registered",
+            "uz": "This email has already registered"
+        },
+        "wehicle_id_403": {
+            "en": "This vehicle_id alrady exist",
+            "ru": "This vehicle_id alrady exist",
+            "uz": "This vehicle_id alrady exist"
+        },
+        "driver_id_403": {
+            "en": "This driver_id alrady exist",
+            "ru": "This driver_id alrady exist",
+            "uz": "This driver_id alrady exist"
+        }
+    }
+}

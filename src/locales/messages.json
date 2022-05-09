@@ -1,0 +1,229 @@
+{
+    "messages": {
+        "admin_getAll_200": {
+            "en": "All admins have been got",
+            "ru": "All admins have been got",
+            "uz": "All admins have been got"
+        },
+        "admin_getOne_200": {
+            "en": "Single admin have been got",
+            "ru": "Single admin have been got",
+            "uz": "Single admin have been got"
+        },
+        "admin_login_200": {
+            "en": "Successfully login",
+            "ru": "Successfully login",
+            "uz": "Successfully login"
+        },
+        "admin_created_200": {
+            "en": "Admin created",
+            "ru": "Admin created",
+            "uz": "Admin created"
+        },
+        "admin_updated_200": {
+            "en": "Admin updated",
+            "ru": "Admin updated",
+            "uz": "Admin updated"
+        },
+        "service_create_201": {
+            "en": "The service has been created",
+            "ru": "Сервис был создан",
+            "uz": "Xizmat yaratildi yaratildi"
+        },
+        "service_getAll_200": {
+            "en": "All service information has been removed",
+            "ru": "Вся служебная информация удалена",
+            "uz": "Barcha xizmatlat ma'lumotlari chiqarildi"
+        },
+        "service_get_200": {
+            "en": "Service information has been released",
+            "ru": "Служебная информация была опубликована",
+            "uz": "Xizmat ma'lumotlari chiqarildi"
+        },
+        "service_updated_200": {
+            "en": "Service information changed",
+            "ru": "Служебная информация изменена",
+            "uz": "Xizmat ma'lumotlari o'zgartirildi"
+        },
+        "service_login_successfully_200": {
+            "en": "Successfully entered",
+            "ru": "Успешно введено",
+            "uz": "Muvofaqiyatli kirildi"
+        },
+        "service_deleted_200": {
+            "en": "The service has been successfully deleted",
+            "ru": "Услуга успешно отключена",
+            "uz": "Xizmat muvofaqiyatli o'chirildi"
+        },
+        "company_getAll_200": {
+            "en": "All companies have been got",
+            "ru": "All companies have been got",
+            "uz": "All companies have been got"
+        },
+        "company_create_201": {
+            "en": "The vehicle have been created",
+            "ru": "The vehicle have been created",
+            "uz": "The vehicle have been created"
+        },
+        "company_get_200": {
+            "en": "Single Company has taken",
+            "ru": "Single Company has taken",
+            "uz": "Single Company has taken"
+        },
+        "company_login_200": {
+            "en": "Successfully login",
+            "ru": "Successfully login",
+            "uz": "Successfully login"
+        },
+        "company_update_200": {
+            "en": "Successfully updated",
+            "ru": "Successfully updated",
+            "uz": "Successfully updated"
+        },
+        "company_delete_200": {
+            "en": "Successfully deleted",
+            "ru": "Successfully deleted",
+            "uz": "Successfully deleted"
+        },
+        "user_create_201": {
+            "en": "User created successfully",
+            "ru": "Пользователь успешно создан",
+            "uz": "Foydalanuvchi muvofaqiyatli yaratildi"
+        },
+        "user_getAll_200": {
+            "en": "All users data is displayed",
+            "ru": "Отображаются все данные пользователя",
+            "uz": "Barcha foydalanuvchilar ma'lumotlari chiqarildi"
+        },
+        "user_login_successfully_200": {
+            "en": "he user logged in successfully",
+            "ru": "Пользователь успешно авторизовался",
+            "uz": "Foydalanuvchi muvofaqiyatli kirdi"
+        },
+        "user_get_200": {
+            "en": "User information displayed",
+            "ru": "Отображаемая информация о пользователе",
+            "uz": "Foydalanuvchi ma'lumotlari chiqarildi"
+        },
+        "user_updated_200": {
+            "en": "User information changed",
+            "ru": "Информация о пользователе изменена",
+            "uz": "Foydalanuvchi ma'lumotlari o'zgartirildi"
+        },
+        "user_deleted_200": {
+            "en": "User data has been successfully deleted",
+            "ru": "Данные пользователя успешно удалены",
+            "uz": "Foydalanuvchi ma'lumotlari muvofaqiyatli o'chirildi"
+        },
+        "driver_getAll_200": {
+            "en": "All drivers have been got",
+            "ru": "All drivers have been got",
+            "uz": "All drivers have been got"
+        },
+        "drivers_status_200": {
+            "en": "All status have been got",
+            "ru": "All status have been got",
+            "uz": "All status have been got"
+        },
+        "vehicle_getAll_200": {
+            "en": "All vehicles have been got",
+            "ru": "All vehicles have been got",
+            "uz": "All vehicles have been got"
+        },
+        "ifta_getAll_200": {
+            "en": "All iftas have been got",
+            "ru": "All iftas have been got",
+            "uz": "All iftas have been got"
+        },
+        "driver_getOne_200": {
+            "en": "The driver have been got",
+            "ru": "The driver have been got",
+            "uz": "The driver have been got"
+        },
+        "vehicle_getOne_200": {
+            "en": "The vehicle have been got",
+            "ru": "The vehicle have been got",
+            "uz": "The vehicle have been got"
+        },
+        "ifta_getOne_200": {
+            "en": "The ifta have been got",
+            "ru": "The ifta have been got",
+            "uz": "The ifta have been got"
+        },
+        "driver_created_201": {
+            "en": "The driver have been created",
+            "ru": "The driver have been created",
+            "uz": "The driver have been created"
+        },
+        "vehicle_created_201": {
+            "en": "The vehicle have been created",
+            "ru": "The vehicle have been created",
+            "uz": "The vehicle have been created"
+        },
+        "ifta_created_201": {
+            "en": "The ifta have been created",
+            "ru": "The ifta have been created",
+            "uz": "The ifta have been created"
+        },
+        "driver_updated_200": {
+            "en": "The driver have been updated",
+            "ru": "The driver have been updated",
+            "uz": "The driver have been updated"
+        },
+        "vehicle_updated_200": {
+            "en": "The vehicle have been updated",
+            "ru": "The vehicle have been updated",
+            "uz": "The vehicle have been updated"
+        },
+        "ifta_updated_200": {
+            "en": "The ifta have been updated",
+            "ru": "The ifta have been updated",
+            "uz": "The ifta have been updated"
+        },
+        "driver_deleted_200": {
+            "en": "The driver have been deleted",
+            "ru": "The driver have been deleted",
+            "uz": "The driver have been deleted"
+        },
+        "vehicle_deleted_200": {
+            "en": "The vehicle have been deleted",
+            "ru": "The vehicle have been deleted",
+            "uz": "The vehicle have been deleted"
+        },
+        "ifta_deleted_200": {
+            "en": "The ifta have been deleted",
+            "ru": "The ifta have been deleted",
+            "uz": "The ifta have been deleted"
+        },
+        "driver_loggedIn_200": {
+            "en": "The driver have been logged in",
+            "ru": "The driver have been logged in",
+            "uz": "The driver have been logged in"
+        },
+        "driver_uploaded_200": {
+            "en": "The driver's signature have been uploaded",
+            "ru": "The driver's signature have been uploaded",
+            "uz": "The driver's signature have been uploaded"
+        },
+        "dvir_create_201": {
+            "en": "dvir created",
+            "ru": "двир создан",
+            "uz": "dvir yaratildi"
+        },
+        "dvir_getAll_200":{
+            "en": "all DVIR data is displayed",
+            "ru": "отображаются все данные DVIR",
+            "uz": "barcha DVIR ma'lumotlari chiqarildi"
+        },
+        "dvir_update_200":{
+            "en": "DVIR data changed",
+            "ru": "Данные DVIR изменены",
+            "uz": "DVIR ma'lumotlari o'zgartirildi"
+        },
+        "dvir_deleted_200": {
+            "en": "DVIR data has been deleted",
+            "ru": "Данные DVIR были удалены",
+            "uz": "DVIR ma'lumotlari o'chirildi"
+        }
+    }
+}
